@@ -1,0 +1,15 @@
+div
+{
+    width: 75%;
+    height: 750px;
+    background: darkgray;
+}
+h1{
+    color: darkred;
+    font-family: 'Times New Roman', Times, serif;
+}
+p
+{
+    color: darkslateblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
